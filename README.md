@@ -1,3 +1,5 @@
+#该项目是在b站跟着尚硅谷老师敲的vue实战项目，是对vue基础知识的巩固和应用。
+
 # test_app
 
 ## Project setup
