@@ -1,1 +1,0 @@
-"use strict";(self["webpackChunktest_app"]=self["webpackChunktest_app"]||[]).push([[415],{3415:function(e,t,n){n.r(t),n.d(t,{default:function(){return p}});var u=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",[e._v(" 团购 ")])},l=[],r={},s=r,a=n(1001),c=(0,a.Z)(s,u,l,!1,null,null,null),p=c.exports}}]);
